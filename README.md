@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Distributed+Systems;Building+Real-Time%2C+Scalable+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer" alt="Typing SVG" />
 
 # Ramez Ragaay
 
@@ -139,10 +139,10 @@ Mobile movie-discovery app with OAuth authentication, TMDB API integration, a tr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RamezRagaay&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamezRagaay&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=RamezRagaay&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&show_icons=true" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RamezRagaay&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=RamezRagaay&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=RamezRagaay&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamezRagaay&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph" width="95%" />
 
